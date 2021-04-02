@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+/*
+body{
+    background: #8E0E00;  
+background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  
+background: linear-gradient(to right, #1F1C18, #8E0E00); 
+
+}
+*/
+
+
+body {
+    background: url('..\src\assets\img\fondo6.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+  }
+
+.titulo{
+    font-family: 'Potta One', cursive;
+    text-align: center;
+}
